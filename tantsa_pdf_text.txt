@@ -1,0 +1,447 @@
+TANTSA  |  INNOVATHON 2026  |  MASTER CONCEPT & PITCH GUIDE
+Guess Less. Make Right. Earn More.   |   1
+TANTSA
+Production Decision Companion for Small Food Businesses
+GUESS LESS. MAKE RIGHT. EARN MORE.
+One-sentence concept
+Tantsa helps small prepared-food businesses decide what to prepare, how much to prepare, and when to prepare it 
+using sales history, confirmed orders, available ingredients, batch constraints, and budget - then learns from actual 
+outcomes to improve the next decision.
+The problem  Small food businesses commit ingredients, labor, time, and cash before exact demand is known. Too 
+much becomes leftover value; too little becomes a stockout and missed sale.
+Core question
+"Given what I know today, what should I prepare next?"
+Tantsa is Tantsa is not
+A daily production-planning companion A generic POS replacement
+A low-data decision layer for small food businesses A guaranteed AI forecaster
+Merchant-controlled and explainable A food-safety certification
+Able to start with simple records Dependent on enterprise integrations from day one
+Focused on what, how much, and when to prepare A consumer surplus marketplace at launch
+Competition fit: Food Security / AI for Food Systems
+Measurable claim: reduce avoidable prepared-food loss and improve production decisions - not "solve hunger."
+TANTSA  |  INNOVATHON 2026  |  MASTER CONCEPT & PITCH GUIDE
+Guess Less. Make Right. Earn More.   |   2
+1. The Problem
+A repeated operating decision with financial consequences
+ Overproduction - too much food is prepared before demand is known, tying cash up in unsold items.
+ Stockouts - too little is prepared, products sell out early, and potential sales are missed.
+ Guess-based planning - owners may rely on memory, habit, notebooks, or rough estimates.
+ Fragmented information - sales, preorders, leftovers, stockouts, ingredients, batch sizes, and cash limits are rarely 
+combined into one decision.
+ Late reaction - slow sell-through may only be noticed near closing, when recovery options are weaker.
+ Working-capital pressure - the owner may have a fixed amount of cash available for tomorrow's ingredients.
+Formal problem statement
+Small prepared-food businesses make production decisions under uncertain demand and resource constraints. This 
+can lead to avoidable overproduction, stockouts, and inefficient use of working capital. They need an accessible 
+way to turn simple business records into practical, explainable preparation decisions.
+Human story
+The owner commits part of tomorrow's livelihood before knowing tomorrow's demand.
+What existing evidence supports
+Evidence What it supports What it does not prove
+PSA: 37,500 formal accommodation/food-
+service establishments in 2024; 27,638 
+restaurant/mobile-food-service businesses 
+[S1]
+The sector is economically significant. Not every establishment has Tantsa's pain.
+Davao Region establishment data previously 
+reviewed [S2]
+A microbusiness-first local approach is 
+relevant.
+It does not prove willingness to pay.
+Philippine food-service research on 
+overproduction/spoilage [S3]
+The pain mechanism is documented. It does not quantify typical Tagum losses.
+Local bakery operations research on 
+forecasting/scheduling [S4]
+Production planning is an established 
+operational need.
+It does not validate Tantsa itself.
+Evidence boundary: secondary sources are not merchant interviews. Local loss frequency, peso impact, and willingness to pay still require 
+validation.
+TANTSA  |  INNOVATHON 2026  |  MASTER CONCEPT & PITCH GUIDE
+Guess Less. Make Right. Earn More.   |   3
+2. Target Market
+Defined by operating behavior, not by one business type
+Best-fit behavior
+Small prepared-food businesses that repeatedly produce before exact demand is known, have a limited selling 
+window, and can measure what they produced, sold, and had left.
+Segment Why it may fit Main challenge Priority
+Panaderias / small bakeries Repeat SKUs, batches, clear counts, 
+leftovers and early sellouts
+Experienced owners may already 
+have strong routines
+High
+Carinderias Daily preparation decisions; strong 
+working-capital sensitivity
+Changing menus, portions, and 
+food-safety complexity
+High
+Food stalls / kiosks Short selling windows; fluctuating 
+place/time demand
+Weather and event volatility High
+Small cafes Pastries/sandwiches and time-of-
+day demand
+More existing POS competition Medium
+Made-to-order sellers Costing still useful Demand is mostly committed; 
+lower leftover pain
+Low
+Restaurant chains Potential savings at scale Enterprise integrations and strong 
+incumbents
+Later
+Ideal customer profile
+ Produces repeatable items several days per week.
+ Makes at least part of production before all demand is known.
+ Experiences recurring leftovers, late discounting, or stockouts.
+ Can record simple daily totals or import them later.
+ Owner/operator controls production quantity and pricing.
+ Has enough volume that a small monthly fee could be justified by measurable value.
+Go-to-market rule
+Interview several segments first. Pilot with the segment where the pain is frequent, expensive, measurable, and 
+practical to record. Do not force bakeries if another segment shows stronger repeat losses.
+TANTSA  |  INNOVATHON 2026  |  MASTER CONCEPT & PITCH GUIDE
+Guess Less. Make Right. Earn More.   |   4
+3. How Tantsa Works
+One continuous daily decision loop
+Stage Input Output / decision
+1. Record Recent sales, production, leftovers, stockouts, 
+preorders
+Usable operating history
+2. Plan History + budget + ingredients + 
+batch/capacity constraints
+Recommended quantity / range + reasons
+3. Approve Owner judgment Accepted or adjusted plan
+4. Monitor Midday stock or transaction update Updated sell-through picture
+5. Act Remaining stock + remaining time Next-batch, delay, bundle, markdown, or 
+hold decision
+6. Review Actual outcome + override reason Next-cycle learning and value review
+Core product logic
+Plan before production. Reassess before waste. Learn after every selling cycle.
+Illustrative bakery scenario
+Input / event Example
+Normal quantity 120 pieces
+Estimated walk-in demand 72 pieces
+Confirmed preorders 12 pieces
+Batch size 12 pieces
+Tantsa plan 84 pieces total, with staging if practical
+Initial action Prepare 60 pieces; reserve committed orders
+Checkpoint Reassess the remaining 24 after a stock update
+If sales are faster Suggest another batch if ingredients and selling time allow
+If sales are slower Delay/cancel the next batch; consider an eligible recovery action
+Closing Record normal sales, markdown sales, unsold, discarded, and sold-
+out timing
+All quantities above are illustrative, not pilot results.
+TANTSA  |  INNOVATHON 2026  |  MASTER CONCEPT & PITCH GUIDE
+Guess Less. Make Right. Earn More.   |   5
+4. Core Features
+The production recommendation remains the center
+Feature What it does Business value
+Quick daily records Made, sold, remaining, discarded, sold out Creates usable history
+Production recommendation Suggests quantities within demand, batch, 
+ingredient, capacity, and budget constraints
+Balances excess and stockout risk
+Confirmed preorder tracking Separates committed demand from expected 
+walk-ins
+Protects commitments without double-counting
+Kasya sa Puhunan Plans quantities within an ingredient-
+purchasing budget
+Allocates limited working capital
+Batch timing guidance Suggests what to prepare first and when to 
+reassess another batch
+Reduces premature production
+Midday stock update Uses current remaining stock or imported 
+transactions
+Enables intraday recommendations
+Leftover recovery Suggests eligible owner-approved bundles, 
+markdowns, donation/disposal
+Creates a recovery path before closing
+Outcome review Shows production, sales, waste, stockouts, 
+contribution, overrides
+Tests whether decisions are improving
+Signature feature: Kasya sa Puhunan
+"May P1,500 akong pambili bukas. Ano at ilan ang kaya kong ihanda?" Tantsa considers on-hand ingredients, 
+current ingredient costs, menu/recipes, confirmed orders, estimated demand, batch sizes, capacity, and expected 
+contribution, then proposes a feasible production mix.
+ If the usual quantity of every product exceeds the budget, Tantsa can preserve confirmed orders while reducing 
+lower-confidence items.
+ On-hand inventory reduces tomorrow's cash purchase requirement but still has an economic cost; the app must 
+keep cash requirement and product cost separate.
+ For fixed-product bakeries, batch quantity and timing may matter more than budget optimization; the product 
+should adapt to the segment.
+TANTSA  |  INNOVATHON 2026  |  MASTER CONCEPT & PITCH GUIDE
+Guess Less. Make Right. Earn More.   |   6
+5. Technology, Low-Data Behavior, and Safety
+Use AI only where it adds practical value
+Technology Role What must be demonstrated
+Multimodal AI Turns voice notes or photographed handwritten 
+records into draft entries
+Accurate extraction with owner confirmation
+Demand forecasting Estimates likely demand and uncertainty Improves on owner/simple baselines in real use
+Constrained optimization Finds feasible quantities under budget, 
+ingredient, batch, and capacity limits
+Correct, explainable calculations
+Intraday forecasting Updates expectations after a stock/sales 
+checkpoint
+Useful decisions from fresh enough data
+Explanation generation Explains why the plan changed Explanation matches the underlying calculation
+AI boundary
+Costs, quantities, financial results, and safety status must come from structured data, explicit rules, and validated 
+logic. A language model should not invent them.
+Cold-start behavior
+Data available Appropriate behavior
+No sales history Use owner baseline, confirmed orders, and known constraints. No 
+fake confidence.
+Limited history Use comparable-day averages and clearly show uncertainty.
+More reliable history Evaluate forecasting against owner decisions and simple baselines.
+Missing/stale midday data Request an update before giving an intraday recommendation.
+ Selling all 80 units does not prove demand was exactly 80; customers may have arrived after stockout. Record 
+sellout time and observed unmet requests where possible.
+ Filipino, Cebuano, and mixed-language voice input are promising, but reliable language support should only be 
+claimed after testing.
+ Food safety cannot be established by an AI guess or merchant checkbox. If required handling information is 
+missing, do not recommend resale or carryover.
+TANTSA  |  INNOVATHON 2026  |  MASTER CONCEPT & PITCH GUIDE
+Guess Less. Make Right. Earn More.   |   7
+6. Differentiation
+Differentiated workflow, not a claim of global uniqueness
+Positioning
+Enterprise-style production planning, simplified for Philippine small food businesses that may have limited data 
+and no integrated POS.
+Product Existing strength Overlap Tantsa difference
+Peddlr POS, inventory, expenses, reports, 
+offline
+Records what happened Primary job is deciding what to 
+prepare next
+iCost Recipe costing, inventory, 
+pricing/analytics
+Food-business economics Costing supports the production 
+decision instead of being the core
+KwentaPOS Bakery POS, recipes, ingredients, 
+offline
+Bakery operations Can coexist with POS; focuses on 
+preparation quantity/timing
+ClearCOGS Restaurant prep forecasting from POS 
+data
+Very close on how much to prep POS-light, lower-data workflow for 
+smaller Philippine operators
+Guac Fresh-food demand forecasting / 
+production planning
+Very close on forecasting Microbusiness-first positioning and 
+simple input path
+Too Good To Go Surplus/expiry/markdown/
+marketplace tools
+Leftover recovery Recovery is secondary to production 
+prevention; no marketplace at launch
+What Tantsa combines
+ Simple manual, voice, or photo-assisted records.
+ Preorders + recent sales + budget/batch/ingredient/capacity constraints in one recommendation.
+ Explicit stockout tracking so sold-out days do not teach the model the wrong demand.
+ Midday reassessment instead of only next-day forecasting.
+ Owner approval and understandable explanations.
+ Leftover-risk action before closing, then feedback into the next cycle.
+Do not claim
+"First in the world," "competitors cannot do this," or "AI is the moat." The defensible value must come from 
+workflow fit, trusted merchant data, measurable outcomes, retention, distribution, and integrations.
+TANTSA  |  INNOVATHON 2026  |  MASTER CONCEPT & PITCH GUIDE
+Guess Less. Make Right. Earn More.   |   8
+7. MVP and Prototype
+Build one complete decision cycle, not a broad platform
+Module Minimum behavior Why it matters
+Business/product setup Products, prices, recipes/yields, batch sizes, 
+optional capacity
+Defines economics and constraints
+Quick daily log Made, sold, leftover/discarded, stockout Creates usable history with low burden
+Preorders Confirmed quantity by date/product Protects committed demand
+Planner Recommended quantity/range with explanation Core product value
+Budget planner Feasible mix under purchasing limit Shows working-capital value
+Midday update Remaining stock / transaction checkpoint Supports batch timing decisions
+Recovery options Markdown, bundle, donation/discard where 
+eligible
+Protects value after production
+Outcome review Actual vs recommended; overrides and trends Shows learning and measurable value
+Prototype screens
+ 1. Onboarding / products / recipe or cost / batch size.
+ 2. Quick record: made, sold, leftover, discarded, sold out.
+ 3. Tomorrow's plan: preorders, budget, ingredients, and proposed quantities.
+ 4. Owner approval: adjust quantity and record reason.
+ 5. Midday update: remaining stock and conditional next-batch suggestion.
+ 6. Outcome review: what happened, leftover/stockout trend, and financial interpretation.
+Optional polish
+If time permits, add one voice-input demonstration that converts a natural-language record into draft structured 
+fields and requires owner confirmation.
+Do not build yet
+Full POS, payment custody, consumer marketplace, tax invoicing, automatic food-safety decisions, complex multi-
+branch integrations, or advanced AI claims.
+TANTSA  |  INNOVATHON 2026  |  MASTER CONCEPT & PITCH GUIDE
+Guess Less. Make Right. Earn More.   |   9
+8. Business Model and Investor Logic
+Commercial story: money protected, not AI
+Stage Offer Purpose
+Pilot Assisted setup, daily records, planning Prove value and data feasibility
+Single-business subscription Recommendations, budget planning, alerts, 
+outcome review
+Test paid retention
+Team / branch plan Roles, shared products, branch planning, 
+consolidated purchasing
+Expand revenue within growing customers
+Integrations later POS and order-system connections Reduce input effort and support larger 
+accounts
+Test price
+P299/month may be used as an experiment because local business tools already use similar price points. It is not 
+validated for Tantsa.
+Value metrics
+Metric What it tells us
+Unsold quantity / production Whether overproduction is changing
+Discarded quantity Whether actual waste is changing
+Stockout frequency and timing Whether lower production is causing shortages
+Revenue minus defined variable costs Whether operating contribution is improving
+Daily recording time Whether the workflow is practical
+Recommendation use / overrides Whether owners find the decision useful
+Paid conversion / renewal Whether value is strong enough to support a business
+Investor questions Tantsa must eventually answer
+ How much does a qualified merchant actually lose from production mistakes?
+ Does Tantsa reduce unsold output without materially increasing stockouts?
+ How many minutes per day does data entry take?
+ Do merchants keep using recommendations after novelty wears off?
+ How many pay and renew after the trial?
+ Can customer acquisition and support costs be recovered from subscription margin?
+ What prevents a POS provider from copying the feature?
+TANTSA  |  INNOVATHON 2026  |  MASTER CONCEPT & PITCH GUIDE
+Guess Less. Make Right. Earn More.   |   10
+9. Go-to-Market and Validation
+Use real merchant behavior as the filter
+Marketing message
+Primary hook
+"Not sure how much to prepare tomorrow?" Tantsa learns from what you made, sold, had left, and sold out - then 
+helps you plan the next batch.
+Channel / tactic How to use it
+Direct merchant visits Ask about yesterday's leftovers and stockouts; demonstrate with 
+their own numbers.
+Free trial Let merchants record 1-2 weeks, then show patterns before asking 
+them to pay.
+Facebook / TikTok Short peso-based examples: made vs sold vs remaining, then the 
+next-day decision.
+Local food-business groups Reach bakeries, carinderias, stalls, cafes, and MSME communities.
+Referral Merchant invites another business; use trial extension only if 
+economics support it.
+Partners later Negosyo Centers, coops, food associations, culinary schools, 
+suppliers, POS providers.
+Success stories Use measured outcomes as the strongest advertisement.
+Validation plan
+ Week 1: 15-20 discovery interviews across relevant segments. Collect recent leftovers, sellouts, decision method, 
+budget constraints, and current records.
+ Week 2: onboard up to 10 pilot merchants; measure setup time and data quality.
+ Weeks 3-4: observe baseline production, leftovers, stockouts, and recording burden without recommendations.
+ Weeks 5-6: turn recommendations on; track adoption, overrides, unsold ratio, stockouts, and contribution.
+ After trial: offer a real paid subscription; measure conversion, renewal, and cancellation reasons.
+Decision rule
+If merchants do not lose enough from production mistakes to care about "what should I prepare next?", do not 
+rescue the idea by adding more dashboards, AI, or marketplace features. Pivot.
+TANTSA  |  INNOVATHON 2026  |  MASTER CONCEPT & PITCH GUIDE
+Guess Less. Make Right. Earn More.   |   11
+10. INNOVATHON Fit and 4-Minute Pitch
+Keep the story focused on one merchant decision
+Judging criterion Weight What Tantsa should show
+Problem understanding 25% Specific merchant pain supported by 
+interviews/observation or clearly labeled 
+secondary evidence
+Feasibility & scalability 25% Focused prototype, low-data behavior, 
+realistic staged integrations
+Projected impact 25% Waste, stockout, working-capital, and 
+financial measures
+Implementation plan 15% Pilot design, data needs, validation gates, 
+next steps
+Presentation 10% One clear customer story and 
+understandable demonstration
+Suggested 4-minute flow
+Time Pitch content
+0:00-0:35 Small food sellers commit cash before knowing demand. Too much 
+becomes leftover value; too little becomes a stockout.
+0:35-1:05 Define the best-fit behavior: repeat production, uncertain demand, 
+limited selling window, measurable outcomes.
+1:05-2:15 Demo one scenario: history + preorders + budget/constraints -> plan 
+-> owner approval -> midday update -> next-batch/recovery decision.
+2:15-2:50 Differentiate honestly: POS/costing and forecasting tools exist; 
+Tantsa simplifies the workflow for small Philippine operators.
+2:50-3:25 Show measurable value: unsold quantity, stockouts, recording time, 
+working capital, contribution, and paid conversion.
+3:25-4:00 Scalability: start with the highest-pain segment, then expand to 
+adjacent food businesses and integrations.
+Opening line
+"Every food business has a tantsa - how much to cook, bake, or prepare. The problem is that this tantsa often 
+depends on memory and instinct. Tantsa turns that judgment into a practical, data-supported daily decision."
+TANTSA  |  INNOVATHON 2026  |  MASTER CONCEPT & PITCH GUIDE
+Guess Less. Make Right. Earn More.   |   12
+11. Hard Judge Questions
+Short, defensible answers
+Question Defensible answer
+Is it new? Not as a technology category. The innovation is the simplified low-data 
+workflow that combines production planning, budget/batch constraints, 
+intraday reassessment, recovery, and next-cycle learning for small 
+Philippine operators.
+Why not Peddlr / iCost / KwentaPOS? Those tools solve valuable POS, costing, and inventory needs. Tantsa's 
+primary job is deciding what, how much, and when to prepare.
+ClearCOGS / Guac already forecast prep. Yes. That validates the category. Tantsa tests a POS-light, low-data 
+workflow for smaller Philippine food businesses.
+What if there is no history? Start with owner baseline, confirmed orders, budget, and known 
+constraints; show uncertainty until enough data exists.
+What if you cause a stockout? The owner approves every plan; use ranges/buffers and explicitly track 
+sellout timing and overrides.
+Why the budget feature? For microbusinesses, the feasible decision may be constrained by 
+tomorrow's cash, not just expected demand.
+Who pays? The owner/operator. Any price survives only if measured value 
+repeatedly exceeds the fee and effort.
+Why Food Security? It targets avoidable prepared-food loss and production efficiency; 
+measure merchant-level outcomes rather than claim it solves hunger.
+Core pitch message
+Tantsa helps small food-business owners turn limited cash, simple records, and uncertain demand into a practical 
+daily preparation plan.
+TANTSA  |  INNOVATHON 2026  |  MASTER CONCEPT & PITCH GUIDE
+Guess Less. Make Right. Earn More.   |   13
+12. Risks, Boundaries, and Final Position
+What can invalidate the idea
+Top risks
+ The pain may not be frequent or expensive enough in the first segment.
+ Manual data entry may be too burdensome; voice/photo capture may still be inaccurate.
+ Poor recommendations may increase stockouts.
+ Competitors may add similar planning features.
+ Food-safety mistakes could create serious liability.
+ Savings claims may be misleading if counterfactuals are double counted.
+ The test subscription price may not convert despite comparable local software pricing.
+ The name Tantsa requires proper trademark clearance before commercial use.
+ Multi-branch purchasing and complex integrations can distract from validating the core decision.
+Measurement boundaries
+ Do not count the full selling price of discarded food as money saved.
+ Do not count the same unit as both prevented waste and recovered surplus.
+ Weather, events, opening hours, and price changes can affect outcomes; simple before/after comparison does not 
+prove causation.
+ Keep actual observations separate from modeled estimates and illustrative scenarios.
+Final position
+Proceed with Tantsa as a production-decision companion. Keep production planning at the heart of the product; 
+keep leftover recovery as a secondary layer; use Kasya sa Puhunan, batch timing, voice/photo capture, and intraday 
+updates only to strengthen the core decision.
+Brand
+TANTSA - Guess Less. Make Right. Earn More.
+TANTSA  |  INNOVATHON 2026  |  MASTER CONCEPT & PITCH GUIDE
+Guess Less. Make Right. Earn More.   |   14
+13. Reference Notes and Evidence Status
+Source basis preserved from the previous SaktoServe guide
+[E1] INNOVATHON 2026 official event agenda supplied by the user.
+[S1] Philippine Statistics Authority, 2024 ASPBI - Accommodation and Food Service Activities, final results (2026).
+[S2] PSA Davao Region establishment statistics previously reviewed in concept research.
+[S3] Philippine food-service research previously reviewed identifying overproduction/spoilage among waste causes.
+[S4] Davao/local bakery operations research previously reviewed discussing demand forecasting and production 
+scheduling.
+[C1] Peddlr - public POS/inventory/offline features.
+[C2] iCost - public food-costing/inventory/pricing features and a PHP 299 Plus price point previously reviewed.
+[C3] KwentaPOS - public bakery POS/recipe/inventory features and a PHP 299 Pro price point previously reviewed.
+[C4] ClearCOGS - restaurant preparation forecasting from POS data.
+[C5] Guac - fresh-food demand forecasting and production planning.
+[C6] Too Good To Go Platform - expiry/markdown/marketplace/donation features.
+Evidence status
+Public sources and competitor offerings support the problem category and competitive context, but they do not 
+establish local customer demand, merchant loss frequency, forecast lift, willingness to pay, retention, or unit 
+economics. Those remain validation tasks.
+All example quantities, savings, and pricing assumptions in this guide are illustrative unless attributed to a source. Public competitor features 
+were not independently benchmarked through hands-on trials. This document merges the previous SaktoServe Complete Concept & Pitch 
+Guide with the user-supplied revised concept, updates the brand to TANTSA, and retains the added budget, intraday, multimodal-input, cold-
+start, and measurement refinements.
