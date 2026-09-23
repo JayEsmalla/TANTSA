@@ -1,1 +1,9 @@
-{"name":"tantsa","private":true,"type":"module","scripts":{"start":"node server.mjs","test":"node --test tests/*.test.mjs"}}
+{
+  "name": "tantify",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --test tests/*.test.mjs"
+  }
+}
